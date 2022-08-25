@@ -1,0 +1,25 @@
+body {
+    font-family: 'DynaPuff', cursive;
+    background-size: cover;
+}
+
+#title {
+    color: white;
+    background-color: purple;
+    padding: 5px;
+    width: 500px;
+    border: white 5px solid;
+    border-radius: 10px;
+}
+
+.holder {
+    background-color: white;
+    padding: 10px;
+    width: 650px;
+    border-radius: 20px;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+}
